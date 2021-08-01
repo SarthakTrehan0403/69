@@ -1,0 +1,38 @@
+#school{
+    
+    
+    text-align:center;
+    color: aquamarine;
+    border-color: blue;
+    font-family: cursive;
+     font-size: 80px;
+    
+}
+body{
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+}
+h1{
+    text-align: center;
+}
+#welcome{
+    height: 2000px;
+    width:4000px;
+}
+p{
+    font-family: cursive;
+    font-size: 20px;
+
+}
+#light{
+    
+    height: 1000px;
+    width: 1500px;
+}
+#contact iframe{
+
+
+    width: 100%;
+}
+    
+    
+
